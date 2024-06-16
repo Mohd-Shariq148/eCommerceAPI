@@ -1,0 +1,20 @@
+ecommerce-api
+├── controllers
+│ ├── productController.js
+│ ├── orderController.js
+│ └── customerController.js
+├── models
+│ ├── product.js
+│ ├── order.js
+│ ├── customer.js
+│ └── db.js
+├── routes
+│ ├── productRoutes.js
+│ ├── orderRoutes.js
+│ └── customerRoutes.js
+├── middleware
+│ └── authMiddleware.js
+├── .env
+├── app.js
+└── package.json
+
